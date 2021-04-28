@@ -78,6 +78,7 @@ link:hover {
 }
 .profile {
 	border-radius: 50%;
+	width: 20%;
 }
 .copyright {
   color: #eaf6f6;
