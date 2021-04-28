@@ -76,7 +76,9 @@ a:hover {
 link:hover {
   color: #40514e;
 }
-
+.profile {
+	border-radius: 50%;
+}
 .copyright {
   color: #eaf6f6;
   font-size: 0.75res;
