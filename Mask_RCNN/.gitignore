@@ -5,7 +5,7 @@ logs/
 results/
 temp/
 test/
-LICENSE
+.LICENSE
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
